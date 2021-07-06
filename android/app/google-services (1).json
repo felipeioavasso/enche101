@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836542288497",
+    "project_id": "enche-versao-101",
+    "storage_bucket": "enche-versao-101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836542288497:android:50ccada49a41b80049c1d0",
+        "android_client_info": {
+          "package_name": "com.example.enche_versao_101"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836542288497-7rpjomaj4tlc1icn9mc8tvh4sai7jho0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Lpp0NRPlQNyUMfIZnE6YsEQD3R2N_O4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836542288497-7rpjomaj4tlc1icn9mc8tvh4sai7jho0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
